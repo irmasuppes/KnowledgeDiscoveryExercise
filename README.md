@@ -1,4 +1,4 @@
-# KnowledgeDiscoveryExercise
+# Knowledge Discovery Exercise
 
 Sentiment analysis of posts with different classifiers (Naive Bayes, Random Forest Classifier, Support
 Vector Classification, Linear Support Vector Classifier, Gradient Boosting Classifier)
